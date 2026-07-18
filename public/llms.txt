@@ -1,0 +1,9 @@
+# FlightSphere Academy
+
+> Premium aviation and aerospace coaching institute preparing students for careers as pilots, cabin crew, ground staff, and aerospace professionals with world-class mentorship and international training standards.
+
+FlightSphere Academy offers end-to-end coaching for aviation careers including Commercial Pilot License (CPL), Cabin Crew & Hospitality, Aircraft Maintenance Engineering, Aerospace Engineering prep, Air Traffic Control, and Ground Staff & Airport Operations. The program includes DGCA exam prep, simulator training, placement assistance, and mentorship from industry veterans.
+
+## Pages
+
+- [Home](/): Overview of FlightSphere Academy, courses, mentors, gallery, FAQs and contact info.
